@@ -4,11 +4,12 @@
             <!-- <img/> -->
             <h1>logo</h1>
         </div>
-        <div class="flex justify-between w-80">
-            <button class="bg-purple font-bold text-white">example</button>
-            <button class="bg-purple font-bold text-white">example</button>
-            <button class="bg-purple font-bold text-white">example</button>
-            <button class="bg-purple font-bold text-white">example</button>
+        <div class="flex justify-between w-120">
+            <p class="text-white"><a href="#">example</a></p>
+            <p class="text-white"><a href="#">example</a></p>
+            <p class="text-white"><a href="#">example</a></p>
+            <p class="text-white"><a href="#">example</a></p>
+            <button class="text-white bg-purple p-1">Contact us</button>
         </div>
     </div>
 </template>
