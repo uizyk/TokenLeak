@@ -1,14 +1,14 @@
 <template>
-    <div id="headerContainer">
+    <div class="bg-background-dark flex justify-between items-center w-full h-20 px-5">
         <div>
             <!-- <img/> -->
-            <h1 style="color: white;">logo</h1>
+            <h1>logo</h1>
         </div>
-        <div>
-            <button>example</button>
-            <button>example</button>
-            <button>example</button>
-            <button>example</button>
+        <div class="flex justify-between w-80">
+            <button class="bg-purple font-bold text-white">example</button>
+            <button class="bg-purple font-bold text-white">example</button>
+            <button class="bg-purple font-bold text-white">example</button>
+            <button class="bg-purple font-bold text-white">example</button>
         </div>
     </div>
 </template>
@@ -19,7 +19,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<!-- <style scoped>
     #headerContainer {
         display: flex;
         justify-content: space-between;
@@ -28,4 +28,4 @@ export default {
         height: 80px;
         background-color: #0B0F19;
     }
-</style>
+</style> -->

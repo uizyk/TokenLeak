@@ -9,6 +9,31 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
+    screens: {
+      sm: '480px',
+      md: '768px',
+      lg: '976px',
+      xl: '1440px',
+    },
+    colors: {
+      //default colors
+      'blue': '#1fb6ff',
+      'purple': '#7e5bef',
+      'pink': '#ff49db',
+      'orange': '#ff7849',
+      'green': '#13ce66',
+      'yellow': '#ffc82c',
+      'gray-dark': '#273444',
+      'gray': '#8492a6',
+      'gray-light': '#d3dce6',
+      'white': '#ffffff',
+
+      //custom colors
+      'background-dark': '#0B0F19',
+      'background-light': '#f4f0e6',
+
+
+    },
     extend: {},
   },
   plugins: [],
