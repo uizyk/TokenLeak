@@ -1,0 +1,320 @@
+{
+    "data": [
+        {
+            "news_url": "https://cointelegraph.com/news/27-trillion-ready-for-bitcoin-btc-coinshares-cso-meltem-demirors",
+            "image_url": "https://crypto.snapi.dev/images/v1/y/v/6756c749-a433-43b2-b20a-36df08daffbb-325132.jpg",
+            "title": "$27 trillion AUM is perched over Bitcoin and crypto: CoinShares CSO",
+            "text": "The top eight financial institutions with an interest in Bitcoin and crypto have a whopping $27 trillion in combined assets under management.",
+            "source_name": "Cointelegraph",
+            "date": "Tue, 27 Jun 2023 00:06:01 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33017089/jack-dorsey-backed-damus-says-it-faces-app-store-removal-for-bitcoin-tipping-despite-app-u?SNAPI",
+            "image_url": "https://crypto.snapi.dev/images/v1/l/b/jack-dorsey-photo-by-frederic-legrand-comeo-on-shutterstock-4jpegoptimizemediumdpr1autowebpheight800width1456fitcrop-325128.jpg",
+            "title": "Jack Dorsey-Backed Damus Says It Faces App Store Removal For Bitcoin Tipping Despite App Update",
+            "text": "Social media platform Damus, which utilizes Jack Dorsey-backed decentralized social platform, Nostr, is being removed from the Apple Inc (NASDAQ:AAPL) App Store for violating the tech giant's guideline on “business payments.” What Happened: Damus features a function for users to provide Bitcoin (CRYPTO: BTC) tips for the posts they like, which has been flagged by the App Store for violating its policy on in-app purchases only being allowed through Apple's service.",
+            "source_name": "Benzinga",
+            "date": "Mon, 26 Jun 2023 23:17:59 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-aims-higher-30500/",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/v/depositphotos-13737082-s-2019-325125.jpg",
+            "title": "Bitcoin Price Aims Higher But 100 SMA Is The Key",
+            "text": "Bitcoin price is attempting a fresh increase from the $30,000 zone. BTC could gain bullish momentum if it clears $30,500 and the 100 hourly SMA.",
+            "source_name": "NewsBTC",
+            "date": "Mon, 26 Jun 2023 22:55:42 -0400",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33017003/bitcoin-ethereum-dogecoin-trade-mixed-as-etf-induced-rally-pauses-analyst-predicts-strong-?SNAPI",
+            "image_url": "https://crypto.snapi.dev/images/v1/h/u/cryptocurrency-photo-by-igor-faun-on-shutterstock-8jpegoptimizemediumdpr1autowebpheight800width1456fitcrop-325124.jpg",
+            "title": "Bitcoin, Ethereum, Dogecoin Trade Mixed As ETF-Induced Rally Pauses: Analyst Predicts Strong July For King Crypto Amid Vanishing 'Crypto Death' Fears",
+            "text": "Major cryptocurrencies traded mixed on Monday evening following a week-long rally that was driven by several crypto-related exchange-traded funds (ETF) applications in the U.S. This comes as the Securities and Exchange Commission (SEC) on Sunday approved the nation's first leveraged Bitcoin futures ETF offered by Volatility Shares, a Florida-based investment firm.",
+            "source_name": "Benzinga",
+            "date": "Mon, 26 Jun 2023 22:39:07 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "DOGE",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-faces-critical-test-at-30000-mark-amidst-economic-events/",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/p/bitcoin-325117.webp",
+            "title": "Bitcoin Price Faces Critical Test at $30,000 Mark Amidst Economic Events",
+            "text": "Bitcoin's price is currently at a crucial juncture as it hovers around the $30,000 mark, prompting speculation about its next move. While briefly dipping below this level, the key question remains whether it will hold as support or if a more significant battle is unfolding.",
+            "source_name": "CoinPedia",
+            "date": "Mon, 26 Jun 2023 22:19:55 -0400",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coinmarketcap.com/alexandria/article/hsbc-hong-kong-allows-customers-to-trade-bitcoin-and-ethereum-etfs-on-its-investment-platform",
+            "image_url": "https://crypto.snapi.dev/images/v1/x/g/3d2ca5d77f1f4ab78e0152b2fb02f488-325113.jpg",
+            "title": "HSBC Hong Kong Allows Customers To Trade Bitcoin and Ethereum ETFs on its Investment Platform",
+            "text": "HSBC Hong Kong, the largest lender in Hong Kong, has become the first bank to allow its customers access to Bitcoin and Ethereum exchange traded funds (ETFs) on its investment platform.",
+            "source_name": "CoinMarketCap",
+            "date": "Mon, 26 Jun 2023 21:58:20 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/markets/2023/06/27/first-mover-asia-bitcoin-could-experience-price-turbulence-as-30k-is-tested/",
+            "image_url": "https://crypto.snapi.dev/images/v1/6/j/6j322-325110.jpg",
+            "title": "First Mover Asia: Bitcoin Could Experience Price Turbulence as $30K Is Tested",
+            "text": "ALSO: Venture capitalists and others have abandoned blockchain for the seemingly greener pastures of AI, but they may be falling for the hype of a technology that has yet to prove itself substantially.",
+            "source_name": "Coindesk",
+            "date": "Mon, 26 Jun 2023 21:15:24 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/146312/meet-nodeless-the-non-kyc-bitcoin-lightning-processor-jack-dorsey-tweeted-about",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/i/nodeless-gid-7jpg-at-png-325108.jpg",
+            "title": "Meet Nodeless, The Non-KYC Bitcoin Lightning Processor Jack Dorsey Tweeted About",
+            "text": "The platform makes it possible to accept Bitcoin Lightning payments without Know-Your-Customer requirements.",
+            "source_name": "Decrypt",
+            "date": "Mon, 26 Jun 2023 20:52:19 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.cryptoglobe.com/latest/2023/06/crypto-trader-capo-predicts-doom-and-gloom-for-bitcoin-ethereum-and-altcoins/",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/x/gold-and-various-coins-on-black-background-325107.jpg",
+            "title": "Crypto Trader Capo Predicts Doom and Gloom for Bitcoin, Ethereum and Altcoins",
+            "text": "A popular cryptocurrency trader known only by his nom de guerre Capo, which has been bearish on the cryptocurrency market for months, has issued a stark warning to the community, predicting doom and gloom for leading cryptocurrencies Bitcoin, Ethereum, and altcoins.",
+            "source_name": "CryptoGlobe",
+            "date": "Mon, 26 Jun 2023 20:50:00 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://cryptoslate.com/wisdomtree-exec-says-data-sharing-agreements-are-a-key-part-of-bitcoin-etf-applications/",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/j/wisdomtree-325106.jpg",
+            "title": "WisdomTree exec says data sharing agreements are a “key part” of Bitcoin ETF applications",
+            "text": "Jeremy Schwartz, Global Chief Investment Officer at WisdomTree, commented on cryptocurrency spot exchange-traded funds (ETFs) on June 26.",
+            "source_name": "CryptoSlate",
+            "date": "Mon, 26 Jun 2023 20:45:18 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.fxempire.com/forecasts/article/btc-and-a-return-to-31000-in-the-hands-of-us-stats-and-the-courts-1357373",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/j/bitcoin1-1-325105.jpg",
+            "title": "BTC and a Return to $31,000 in the Hands of US Stats and the Courts",
+            "text": "It is a bearish start to the day for BTC. While Binance took an early loss on Monday, an Ripple victory against the SEC would turn the table on the SEC.",
+            "source_name": "FXEmpire",
+            "date": "Mon, 26 Jun 2023 20:40:40 -0400",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/146278/damus-to-be-booted-from-apples-app-store-jack-dorsey-responds",
+            "image_url": "https://crypto.snapi.dev/images/v1/0/g/apple-app-store-on-iphone-gid-7jpg-at-png-325103.jpg",
+            "title": "Bitcoin Tipping Service Damus Gets Booted From Apple App Store",
+            "text": "Damus tried to clarify that tipping isn't used to \"unlock content\"—but to no avail.",
+            "source_name": "Decrypt",
+            "date": "Mon, 26 Jun 2023 20:19:16 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/146286/solana-polygon-cardano-still-recovering-from-the-sec-calling-them-securities",
+            "image_url": "https://crypto.snapi.dev/images/v1/h/4/solana-ripple-bitcoin-cardano-ethereum-coins-gid-7jpg-at-png-325102.jpg",
+            "title": "Solana, Polygon, Cardano Still Recovering From the SEC Calling Them Securities",
+            "text": "The handful of tokens the SEC called securities have lost 15%, or $5 billion, off their collective market capitalizations since the start of June.",
+            "source_name": "Decrypt",
+            "date": "Mon, 26 Jun 2023 20:07:51 -0400",
+            "topics": [
+                "regulations"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "ADA",
+                "MATIC",
+                "SOL"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/146308/bitcoin-mining-firm-riot-secures-33000-new-rigs-for-162-million",
+            "image_url": "https://crypto.snapi.dev/images/v1/o/r/bitcoin-mining-symbol-gid-7jpeg-at-png-325099.jpg",
+            "title": "Bitcoin Mining Firm Riot Secures 33,000 New Rigs for $162 Million",
+            "text": "The firm also claimed an option to potentially purchase another 66,000 machines.",
+            "source_name": "Decrypt",
+            "date": "Mon, 26 Jun 2023 19:48:40 -0400",
+            "topics": [
+                "mining",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cryptopotato.com/rugby-champion-jarryd-hayne-lost-almost-800k-in-a-bitcoin-scam-report/",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/h/scam-alert-325096.jpg",
+            "title": "Rugby Champion Jarryd Hayne Lost Almost $800K in a Bitcoin Scam: Report",
+            "text": "The crypto scammer purportedly drained more than $2 million from Hayne and five other prisoners at Cooma Correctional Centre.",
+            "source_name": "CryptoPotato",
+            "date": "Mon, 26 Jun 2023 19:42:26 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://ambcrypto.com/bitcoins-30k-fortification-developing-cracks/",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/y/ambcrypto-an-ascending-staircase-with-the-bitcoin-logo-symboliz-f3388e77-11e6-4da8-bb03-8f1386472506-325094.png",
+            "title": "Bitcoin's $30k fortification developing cracks?",
+            "text": "As Bitcoin surges past $30,000, CryptoQuant data warns of an impending price correction. Increased inflows and declining indicators raise concerns for investors.",
+            "source_name": "AMBCrypto",
+            "date": "Mon, 26 Jun 2023 19:30:17 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/digital-assets/2023/06/26/spains-largest-bank-joins-list-of-financial-institutions-exploring-bitcoin/",
+            "image_url": "https://crypto.snapi.dev/images/v1/6/w/spains-largest-bank-joins-list-of-financial-institutions-exploring-bitcoin-325093.jpg",
+            "title": "Spain's Largest Bank Joins List Of Financial Institutions Exploring Bitcoin",
+            "text": "Santander's new found interest signals shifting sentiment towards bitcoin and may be an indication of increased institutional demand.",
+            "source_name": "Forbes",
+            "date": "Mon, 26 Jun 2023 19:17:01 -0400",
+            "topics": [
+                "institutions"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/146302/bitcoin-tech-stock-correlation-hits-three-year-low",
+            "image_url": "https://crypto.snapi.dev/images/v1/y/t/nasdaq-shutterstock-1675540687-16x9-1-gid-7jpg-at-png-325089.jpg",
+            "title": "Bitcoin, Tech Stock Correlation Hits Three-Year Low",
+            "text": "Bitcoin and gold have meanwhile passed the 50% correlation point, according to Kaiko Research.",
+            "source_name": "Decrypt",
+            "date": "Mon, 26 Jun 2023 19:07:39 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/bitcoin-news/the-blessing-of-july-can-bitcoin-climb-to-36000-in-the-coming-month/",
+            "image_url": "https://crypto.snapi.dev/images/v1/a/i/istock-938477558-325088.jpg",
+            "title": "The Blessing Of July: Can Bitcoin Climb To $36,000 In The Coming Month?",
+            "text": "The month of June is quickly drawing to an end and although the price of Bitcoin is maintaining a bullish streak, it is still sitting well below expectations. However, all hope is not lost as the market moves into the month of July which has historically been a bullish month for the digital asset.",
+            "source_name": "NewsBTC",
+            "date": "Mon, 26 Jun 2023 19:00:08 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/?p=152794",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/s/bitcoin-325087.jpg",
+            "title": "Why Bitcoin Price Is Destined To Pump In July 2023?",
+            "text": "Crypto Market News: The recent crypto market rally came just around the time before closing of a huge chunk of Bitcoin and Ethereum options, potentially paving way for significant volatility. Around 40% of the average daily volume in options market is dominated by Bitcoin and Ethereum quarterly positions.",
+            "source_name": "Coingape",
+            "date": "Mon, 26 Jun 2023 18:58:27 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        }
+    ]
+}
