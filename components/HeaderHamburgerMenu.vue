@@ -25,7 +25,7 @@
     <div ref="
     dropdownMenu" class="fixed top-20 left-0 w-full 
     h-0 bg-gray-light 
-    duration-200 ease-linear flex flex-col items-center justify-center overflow-hidden z-50"
+    duration-200 ease-linear flex flex-col items-center justify-center overflow-hidden"
       :class="{ 'dropdown-open': menuOpen }">
       <ul>
         <li>
