@@ -5,9 +5,12 @@
             <!--Carousel indicators-->
             <div class="absolute w-3/4 bottom-0 left-0 right-0 z-[2] mx-auto mb-4 flex list-none justify-center p-0"
                 >
-                <button v-for="(slide, index) in newsData" :key="index" :class="{ 'opacity-100': currentSlide === index }"
+                <button v-for="(slide, index) in newsData" :key="index"     :class="{
+        'opacity-100': currentSlide === index,
+        'opacity-40': currentSlide !== index
+    }"
                     type="button"
-                    class="mx-[3px] box-content h-[8px] w-[40px] flex-initial cursor-pointer border-0 border-solid border-transparent rounded-sm bg-white bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
+                    class="mx-[3px] box-content h-[8px] w-[40px] flex-initial cursor-pointer border-0 border-solid border-transparent rounded-sm bg-white bg-clip-padding p-0 -indent-[999px] transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
                     @click="setSlide(index)" :aria-label="'Slide ' + (index + 1)">
                 </button>
             </div>
