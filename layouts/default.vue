@@ -1,7 +1,7 @@
 <template>
     <div>
-        <TheHeader />
-        <main>
+        <TheHeader class="fixed top-0" />
+        <main class="mt-20">
             <slot />
         </main>
         <TheFooter />

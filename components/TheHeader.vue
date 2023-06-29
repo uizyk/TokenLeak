@@ -6,7 +6,7 @@
         </div>
 
         <!-- HAMBURGER MENU FOR TABLET / MOBILE  -->
-        <HeaderHamburgerMenu class="md:hidden " />
+        <HeaderHamburgerMenu class="md:hidden" />
 
         <!-- DESKTOP MENU -->
         <div class="hidden md:flex justify-between w-96">
@@ -22,7 +22,4 @@
 <script setup>
 import HeaderHamburgerMenu from '@/components/HeaderHamburgerMenu.vue';
 
-// export default {
-//     name: 'TheHeader',
-// }
 </script>

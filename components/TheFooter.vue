@@ -1,5 +1,5 @@
 <template>
-    <div id="footerContainer">
+    <div id="footerContainer" class="flex justify-between items-center py-5 px-5 h-80 text-white bg-background-dark">
 
         <div id="leftSection">
             <h1>logo</h1>
@@ -49,16 +49,6 @@ export default {
 </script>
 
 <style scoped>
-#footerContainer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-    height: 350px;
-    color: white;
-    background-color: #0B0F19;
-}
-
 #leftSection {
     width: 50%;
     height: 100%;
