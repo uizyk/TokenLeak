@@ -1,41 +1,44 @@
 <template>
-    <div id="footerContainer" class="flex justify-between items-center py-5 px-5 h-80 text-white bg-background-dark">
+    <div id="footerContainer" class="
+    justify-between items-center py-5 px-5 text-white bg-background-dark
+    flex flex-col h-fit
+    md:flex-row md:h-80 md:justify-center;
+">
 
-        <div id="leftSection">
+        <div id="leftSection" class="w-2/4 min-h-full flex flex-col justify-around h-48 text-center
+        md:text-start">
             <h1>logo</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum hic culpa sunt voluptate, odit omnis, at ipsam
-                libero soluta earum perspiciatis officiis quo aliquam vitae itaque minima pariatur dolorum quis.
-            </p>
             <div id="newsletterContainer">
-                <h3>Subscribe to our newsletter</h3>
+                <h3 class="mb-2">Subscribe to our newsletter</h3>
                 <input type="text" placeholder="Your Email">
             </div>
             <p>2023 All rights reserved.</p>
         </div>
 
-        <div id="rightSection">
+        <div id="rightSection" class="w-2/4 h-full flex flex-col text-center
+                md:justify-end md:flex-row md:gap-10 md:text-start">
+
             <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Services</li>
-                <li>Blog</li>
-                <li>Contact</li>
+                <li class="mb-2"><a ref="#">Home</a></li>
+                <li class="mb-2"><a ref="#">About</a></li>
+                <li class="mb-2"><a ref="#">Services</a></li>
+                <li class="mb-2"><a ref="#">Blog</a></li>
+                <li class="mb-2"><a ref="#">Contact</a></li>
             </ul>
             <ul>
-                <li>Facebook</li>
-                <li>Linkedin</li>
-                <li>Twitter</li>
-                <li>Instagram</li>
+                <li class="mb-2"><a ref="#">Facebook</a></li>
+                <li class="mb-2"><a ref="#">Linkedin</a></li>
+                <li class="mb-2"><a ref="#">Twitter</a></li>
+                <li class="mb-2"><a ref="#">Instagram</a></li>
             </ul>
             <ul>
-                <li>Terms of Service</li>
-                <li>Privacy Policy</li>
-                <li>Cookie Policy</li>
+                <li class="mb-2"><a ref="#">Terms of Service</a></li>
+                <li class="mb-2"><a ref="#">Privacy Policy</a></li>
+                <li class="mb-2"><a ref="#">Cookie Policy</a></li>
             </ul>
             <ul>
-                <li>Contact Us</li>
-                <li><a ref="#">example.gmail.com</a></li>
+                <li class="mb-2"><a ref="#">Contact Us</a></li>
+                <li class="mb-2"><a ref="#">example.gmail.com</a></li>
             </ul>
         </div>
     </div>
@@ -49,22 +52,10 @@ export default {
 </script>
 
 <style scoped>
-#leftSection {
-    width: 50%;
-    height: 100%;
-}
-
-#rightSection {
-    width: 50%;
-    height: 100%;
-    display: flex;
-    justify-content: flex-end;
-}
-
-#rightSection ul {
+/* #rightSection ul {
     list-style: none;
     display: flex;
     flex-direction: column;
     gap: 20px;
-}
+} */
 </style>
