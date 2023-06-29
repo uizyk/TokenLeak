@@ -4,7 +4,8 @@
         <div id="leftSection">
             <h1>logo</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum hic culpa sunt voluptate, odit omnis, at ipsam libero soluta earum perspiciatis officiis quo aliquam vitae itaque minima pariatur dolorum quis.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum hic culpa sunt voluptate, odit omnis, at ipsam
+                libero soluta earum perspiciatis officiis quo aliquam vitae itaque minima pariatur dolorum quis.
             </p>
             <div id="newsletterContainer">
                 <h3>Subscribe to our newsletter</h3>
@@ -43,39 +44,37 @@
 <script>
 
 export default {
-    name: 'Footer',
+    name: 'TheFooter',
 }
 </script>
 
 <style scoped>
+#footerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    height: 350px;
+    color: white;
+    background-color: #0B0F19;
+}
 
-    #footerContainer {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 20px;
-        height: 350px;
-        color: white;
-        background-color: #0B0F19;
-    }
+#leftSection {
+    width: 50%;
+    height: 100%;
+}
 
-    #leftSection {
-        width: 50%;
-        height: 100%;
-    }
+#rightSection {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
 
-    #rightSection {
-        width: 50%;
-        height: 100%;
-        display: flex;
-        justify-content: flex-end;
-    }
-
-    #rightSection ul {
-        list-style: none;
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-    }
-
+#rightSection ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 </style>

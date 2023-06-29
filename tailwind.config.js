@@ -9,12 +9,6 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    screens: {
-      sm: '480px',
-      md: '768px',
-      lg: '976px',
-      xl: '1440px',
-    },
     colors: {
       //default colors
       'blue': '#1fb6ff',

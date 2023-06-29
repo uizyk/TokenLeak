@@ -1,30 +1,30 @@
 <template>
     <div>
-        <Header/>
+        <TheHeader />
         <main>
             <slot />
         </main>
-        <Footer/>
+        <TheFooter />
     </div>
 </template>
 
 <script>
-    import Header from '@/components/Header.vue';
-    import Footer from '@/components/Footer.vue';
-    import mockData from '@/src/mockData/data.json';
+import TheHeader from '@/components/TheHeader.vue';
+import TheFooter from '@/components/TheFooter.vue';
+import mockData from '@/src/mockData/data.json';
 
-    export default {
-        components: {
-            Header,
-            Footer,
-        },
-        data() {
-            return {
-                mockData: mockData,
-            }
-        },
-        mounted() {
-            console.log(this.mockData);
+export default {
+    components: {
+        TheHeader,
+        TheFooter,
+    },
+    data() {
+        return {
+            mockData: mockData,
         }
+    },
+    mounted() {
+        console.log(this.mockData);
     }
+}
 </script>
