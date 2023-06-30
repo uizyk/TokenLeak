@@ -1,9 +1,10 @@
 <template>
   <div>
-    <h1 class="text-4xl font-bold">Index Page / HomePage</h1>
     <TheHero :mockData="mockData" />
   </div>
 </template>
+
+
 
 
 <script setup>

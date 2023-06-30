@@ -1,6 +1,320 @@
 {
     "data": [
         {
+            "news_url": "https://ambcrypto.com/polygon-gears-up-for-indore-hard-fork-as-exciting-developments-unfold/",
+            "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
+            "title": "Polygon gears up for Indore hard fork as exciting developments unfold",
+            "text": "Polygon prepares for the highly anticipated Indore hard fork while its on-chain metrics impress. Meanwhile, MATIC experiences a positive trend, igniting optimism in the market.",
+            "source_name": "AMBCrypto",
+            "date": "Thu, 29 Jun 2023 23:30:59 -0400",
+            "topics": [
+                "tanalysis",
+                "upgrade"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "MATIC"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-rally-to-32k/",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/m/shutterstock-350833328-scaled-326789.jpg",
+            "title": "Bitcoin Price Key Indicators Suggest A Strengthening Case For Rally To $32K",
+            "text": "Bitcoin price is still struggling to clear the $31,000 resistance. BTC is showing strength and might soon rally toward the $32,000 resistance.",
+            "source_name": "NewsBTC",
+            "date": "Thu, 29 Jun 2023 23:01:28 -0400",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33070753/bitcoin-ethereum-dogecoin-rise-after-fidelity-resubmits-spot-etf-filing-analyst-says-its-h?SNAPI",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/j/cryptocurrency-photo-by-stockphoto-graf-on-shutterstock-2jpegoptimizemediumdpr1autowebpheight800width1456fitcrop-326786.jpg",
+            "title": "Bitcoin, Ethereum, Dogecoin Rise After Fidelity Resubmits Spot ETF Filing: Analyst Says, 'It's Hard To Be Bearish On ETH'",
+            "text": "Major cryptocurrencies traded in the green on Monday following the announcement that Fidelity Investment, the colossal asset management firm that manages assets worth $4.3 trillion, has filed for a spot Bitcoin exchange-traded fund (ETF).",
+            "source_name": "Benzinga",
+            "date": "Thu, 29 Jun 2023 22:42:49 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "DOGE",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://coinmarketcap.com/alexandria/article/since-blackrock-etf-filing-bitcoin-miners-have-sent-dollar1-billion-to-exchanges",
+            "image_url": "https://crypto.snapi.dev/images/v1/h/3/159f5e2dd7104868a9a1bf8886a7b580-326784.jpg",
+            "title": "Since BlackRock ETF Filing, Bitcoin Miners Have Sent $1 Billion to Exchanges",
+            "text": "Bitcoin miners have sent over $1 billion worth of BTC to crypto exchanges in the past two weeks, according to analytics firm CryptoQuant.",
+            "source_name": "CoinMarketCap",
+            "date": "Thu, 29 Jun 2023 22:30:11 -0400",
+            "topics": [
+                "mining",
+                "pricemovement"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coinmarketcap.com/alexandria/article/fidelity-refiles-for-spot-bitcoin-etf-says-etf-would-have-protected-investors",
+            "image_url": "https://crypto.snapi.dev/images/v1/d/q/42b00a6a2a5044dfa2c0929d865cf9ff-326781.jpg",
+            "title": "Fidelity Refiles For Spot Bitcoin ETF, Says ETF Would Have Protected Investors",
+            "text": "Fidelity, the investment management company with $4.5 trillion in assets under management, has submitted paperwork for the Wise Origin Bitcoin Trust, a spot Bitcoin ETF.",
+            "source_name": "CoinMarketCap",
+            "date": "Thu, 29 Jun 2023 22:26:43 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.cryptoglobe.com/latest/2023/06/cme-group-announces-ether-bitcoin-ratio-futures/",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/e/ethereum-6293700-1920-326778.jpg",
+            "title": "CME Group Announces Ether/Bitcoin Ratio Futures",
+            "text": "On June 29, 2023, CME Group announced the upcoming launch of Ether/Bitcoin Ratio futures, set to be available starting July 31. This new offering comes in the wake of increased correlation between Bitcoin and Ether, the two largest cryptocurrencies by market cap.",
+            "source_name": "CryptoGlobe",
+            "date": "Thu, 29 Jun 2023 21:36:34 -0400",
+            "topics": [
+                "futures"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://www.cryptoglobe.com/latest/2023/06/fidelitys-renewed-bid-for-a-spot-bitcoin-etf/",
+            "image_url": "https://crypto.snapi.dev/images/v1/x/c/bitcoin-g807d05f39-1920-326773.jpg",
+            "title": "Fidelity's Renewed Bid for a Spot Bitcoin ETF",
+            "text": "In a recent development reported by CoinDesk, Fidelity, a leading player in asset management, is making another attempt to launch a spot Bitcoin ETF, the Wise Origin Bitcoin Trust. This move is hot on the heels of a similar filing by BlackRock's iShares unit, indicating a significant shift in the financial landscape.",
+            "source_name": "CryptoGlobe",
+            "date": "Thu, 29 Jun 2023 21:01:22 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.cryptoglobe.com/latest/2023/06/u-s-investors-take-the-lead-a-new-era-of-bitcoin-trading-and-institutional-interest/",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/d/gold-bitcoin-on-100-dollar-bills-326770.jpg",
+            "title": "U.S. Investors Take the Lead: A New Era of Bitcoin Trading and Institutional Interest",
+            "text": "The landscape of cryptocurrency trading is experiencing a seismic shift, with U.S. investors taking the wheel in driving Bitcoin's price surge, as per a CoinDesk report by Krisztian Sandor. The data from K33 Research reveals that the U.S.",
+            "source_name": "CryptoGlobe",
+            "date": "Thu, 29 Jun 2023 20:41:52 -0400",
+            "topics": [
+                "institutions"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.fxempire.com/forecasts/article/btc-bulls-to-retarget-31500-on-etf-news-and-us-inflation-1358207",
+            "image_url": "https://crypto.snapi.dev/images/v1/q/r/shutterstock-704336857-4-326768.jpg",
+            "title": "BTC Bulls to Retarget $31,500 on ETF News and US Inflation",
+            "text": "After a bullish Thursday, BTC could be in for a choppy session as investors consider the chances of SEC approvals for the ETFs and US inflation in focus.",
+            "source_name": "FXEmpire",
+            "date": "Thu, 29 Jun 2023 20:21:18 -0400",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://news.bitcoin.com/north-carolina-advances-bill-to-study-holding-bitcoin-using-crypto-to-hedge-against-inflation/",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/t/nc-bill-768x432-326767.jpg",
+            "title": "North Carolina Advances Bill to Study Holding Bitcoin, Using Crypto to Hedge Against Inflation",
+            "text": "The U.S. state of North Carolina has advanced a bill to study holding cryptocurrencies, particularly bitcoin, in the state treasury.",
+            "source_name": "Bitcoin",
+            "date": "Thu, 29 Jun 2023 20:00:51 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://dailyhodl.com/2023/06/29/ethereum-eth-set-to-explode-if-it-follows-bitcoins-history-says-crypto-analyst/",
+            "image_url": "https://crypto.snapi.dev/images/v1/j/u/eth-set-if-itjpgw1024-326765.jpg",
+            "title": "Ethereum (ETH) Set to Explode if It Follows Bitcoin's History, Says Crypto Analyst",
+            "text": "A popular crypto analyst thinks ‘it's hard to be bearish' on smart contract platform Ethereum (ETH) right now. The pseudonymous crypto trader Inmortal tells his 194,900 Twitter followers that Ethereum priced at $2,000 is like Bitcoin (BTC) being priced at $6,000 in 2019.",
+            "source_name": "The Daily Hodl",
+            "date": "Thu, 29 Jun 2023 20:00:26 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://thecurrencyanalytics.com/bitcoin/ark-investment-management-56919.php",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/4/sfjqa0i3-326756.png",
+            "title": "ARK Investment Management Files Amended Bitcoin ETF Application, Emulating BlackRock's Approach",
+            "text": "ARK Investment Management has made amendments to its Bitcoin exchange-traded fund (ETF) application, aligning it with the approach taken by BlackRock in its recent filing. The updated application includes a surveillance sharing agreement with the Chicago Mercantile Exchange (CME) futures markets and a prominent crypto exchange, likely Coinbase, according to Bloomberg ETF analyst Eric Balchunas on Twitter.",
+            "source_name": "The Currency Analytics",
+            "date": "Thu, 29 Jun 2023 18:30:06 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://news.bitcoin.com/change-the-code-blasts-wall-street-for-propping-up-bitcoin-initiatives/",
+            "image_url": "https://crypto.snapi.dev/images/v1/h/z/shutterstock-755151406-768x432-326757.jpg",
+            "title": "Change the Code Blasts Wall Street for Propping Up Bitcoin Initiatives",
+            "text": "Change The Code, a Greenpeace-backed initiative that seeks to change Bitcoin's consensus algorithm, has blasted Wall Street companies for the support they are showing to Bitcoin-related activities. On social media, it has called out companies like Fidelity, Blackrock, JPMorgan, and Goldman Sachs, stating their actions propping up climate-destroying technologies are “unacceptable.",
+            "source_name": "Bitcoin",
+            "date": "Thu, 29 Jun 2023 18:30:02 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/bitcoin-news/dawn-for-bitcoin-5-billion-in-options-expire-and-could-push-price-towards-31000/",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/f/bitcoin-btc-btcusdt-1-326754.jpg",
+            "title": "Dawn For Bitcoin: $5 Billion In Options Expire And Could Push Price Towards $31,000",
+            "text": "Still recording some green on small timeframes, the price of Bitcoin has remained above $30,400. Despite the recent selling pressure across the sector, the support around this level held, providing bulls a chance to fight back.",
+            "source_name": "NewsBTC",
+            "date": "Thu, 29 Jun 2023 18:11:30 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cryptoslate.com/revolut-delists-cardano-polygon-and-solana-in-us-market/",
+            "image_url": "https://crypto.snapi.dev/images/v1/t/d/bakkt-sol-matic-ada-326748.jpg",
+            "title": "Revolut delists Cardano, Polygon, and Solana in US market",
+            "text": "in an email sent to U.S.-based users on June 28, U.K. fintech firm Revolut announced that it is ending support for three major cryptocurrencies. The company stated that U.S. users will not be able to buy Cardano (ADA), Polygon (MATIC), and Solana (SOL) through its app, effective immediately.",
+            "source_name": "CryptoSlate",
+            "date": "Thu, 29 Jun 2023 17:46:16 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "ADA",
+                "MATIC",
+                "SOL"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/markets/2023/06/29/us-investors-are-driving-bitcoins-price-surge-as-institutional-demand-rises/",
+            "image_url": "https://crypto.snapi.dev/images/v1/q/c/6nvbmogvhfg2ponmljnen4nxre-326746.jpg",
+            "title": "U.S. Investors Are Driving Bitcoin's Price Surge as Institutional Demand Rises",
+            "text": "BTC price gains and trading activity have mostly concentrated during U.S. market hours, according to K33 Research.",
+            "source_name": "Coindesk",
+            "date": "Thu, 29 Jun 2023 17:39:28 -0400",
+            "topics": [
+                "institutions"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/fidelity-renews-push-for-spot-wise-origin-btc-trust-making-it-7th-applicant-this-year",
+            "image_url": "https://crypto.snapi.dev/images/v1/i/p/d9e210d3-14e4-44fa-858e-5f18ad8d7356-326736.jpg",
+            "title": "Fidelity renews push for spot Wise Origin BTC Trust, making it 7th applicant this year",
+            "text": "The huge asset manager was denied approval for the Wise Origin Trust last year; now, it is joining a long line of spot fund hopefuls.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 29 Jun 2023 17:00:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.coindesk.com/markets/2023/06/29/bitcoin-hovers-over-303k-despite-renewed-inflation-worries/",
+            "image_url": "https://crypto.snapi.dev/images/v1/9/k/4-trillion-bitcoin-and-ethereum-boom-revealed-by-seasonal-surge-crypto-price-prediction-326496-326735.jpg",
+            "title": "Bitcoin Hovers Over $30.3K Despite Renewed Inflation Worries",
+            "text": "In comments Thursday at a Madrid event on financial stability, Fed Chair Jerome Powell said that “it will take time for the full effects of monetary restraint to be realized.”",
+            "source_name": "Coindesk",
+            "date": "Thu, 29 Jun 2023 16:44:20 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/digital-assets/2023/06/29/crypto-traders-brace-for-7-billion-bitcoin-ether-options-expiries/",
+            "image_url": "https://crypto.snapi.dev/images/v1/u/q/crypto-traders-brace-for-7-billion-bitcoin-ether-options-expiries-326729.jpg",
+            "title": "Crypto Traders Brace For $7 Billion Bitcoin, Ether Options Expiries",
+            "text": "Event could boost bitcoin's recent gains, pushing it beyond $30,000.",
+            "source_name": "Forbes",
+            "date": "Thu, 29 Jun 2023 16:36:10 -0400",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/cme-group-set-to-introduce-eth-to-btc-ratio-futures",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/0/cddddce1-238f-4237-b372-a60dc8b1300a-326731.jpg",
+            "title": "CME Group set to introduce ETH to BTC Ratio futures",
+            "text": "The scheduled launch date for these futures contracts is set for July 31, pending regulatory review.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 29 Jun 2023 16:30:00 -0400",
+            "topics": [
+                "futures"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "ETH"
+            ]
+        },
+        {
             "news_url": "https://cointelegraph.com/news/27-trillion-ready-for-bitcoin-btc-coinshares-cso-meltem-demirors",
             "image_url": "https://crypto.snapi.dev/images/v1/y/v/6756c749-a433-43b2-b20a-36df08daffbb-325132.jpg",
             "title": "$27 trillion AUM is perched over Bitcoin and crypto: CoinShares CSO",

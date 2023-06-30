@@ -50,12 +50,3 @@ export default {
     name: 'TheFooter',
 }
 </script>
-
-<style scoped>
-/* #rightSection ul {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-} */
-</style>
