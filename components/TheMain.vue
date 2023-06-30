@@ -1,12 +1,14 @@
 <template>
     <div class="bg-background-dark p-5">
-        <ArticleFilterButtons class="hidden md:flex"/>
+        <ArticleFilterButtons class="hidden md:flex mb-10" />
+        <div v-for="(article, articleIndex) in newsData" :key="articleIndex">
+            <ArticleCard :articleInfo="article" />
+        </div>
     </div>
 </template>
 
 <script setup>
 import { ref, defineProps, onMounted } from "vue";
-import { formatDate } from "@/utils/dateFormatUtils.js";
 import ArticleFilterButtons from "./ArticleFilterButtons.vue";
 
 
