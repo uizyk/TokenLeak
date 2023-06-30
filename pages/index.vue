@@ -1,6 +1,7 @@
 <template>
-  <div>
+  <div class="w-full">
     <TheHero :mockData="mockData" />
+    <TheMain :mockData="mockData" />
   </div>
 </template>
 

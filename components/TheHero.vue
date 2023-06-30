@@ -2,15 +2,6 @@
   <div>
     <!-- TABLET/MOBILE VIEW -->
     <div class="relative md:hidden">
-      <!--Carousel indicators-->
-      <div class="absolute w-3/4 bottom-0 left-0 right-0 z-[2] mx-auto mb-4 flex list-none justify-center p-0">
-        <button v-for="(slide, index) in newsData" :key="index" :class="{
-          'opacity-100': currentSlide === index,
-          'opacity-40': currentSlide !== index,
-        }" type="button"
-          class="mx-[3px] box-content h-[8px] w-[40px] flex-initial cursor-pointer border-0 border-solid border-transparent rounded-sm bg-white bg-clip-padding p-0 -indent-[999px] transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
-          @click="setSlide(index)" :aria-label="'Slide ' + (index + 1)"></button>
-      </div>
 
       <!--Carousel items-->
       <transition name="slide-fade" mode="out-in">
@@ -23,23 +14,30 @@
             class="relative float-left -mr-[100%] w-full transition-transform duration-[600ms] ease-in-out motion-reduce:transition-none"
             style="backface-visibility: hidden">
             <div
-              class="bg-transparent-black absolute flex flex-col justify-around h-full items-center w-full p-20 text-center md:block">
+              class="bg-transparent-black absolute flex flex-col justify-center h-full items-center w-full text-center md:block">
               <h3 class="font-bold text-article-time rounded-md p-1">{{ formatDate(slide.date) }}</h3>
-              <h1 class="text-xl font-bold line-clamp-3 text-white rounded-md p-1">{{ slide.title }}
+              <h1 class="text-md font-bold line-clamp-3 text-white rounded-md p-1">{{ slide.title }}
               </h1>
-              <p class="text-sm line-clamp-1 text-white rounded-md p-1">{{ slide.text }}</p>
+              <p class="text-sm line-clamp-1 text-white rounded-md p-1 mb-2">{{ slide.text }}</p>
               <a :href="slide.news_url">
-                <button class="w-36 py-1 rounded-md bg-white p-1 mt-3">
+                <button class="w-36 rounded-md bg-white p-1">
                   Read more
                 </button>
               </a>
+              <div class="w-3/4 mx-auto my-4 flex list-none justify-center p-0">
+                <button v-for="(slide, index) in newsData" :key="index" :class="{
+                  'opacity-100': currentSlide === index,
+                  'opacity-40': currentSlide !== index,
+                }" type="button"
+                  class="mx-[3px] box-content h-[8px] w-[40px] flex-initial cursor-pointer border-0 border-solid border-transparent rounded-sm bg-white bg-clip-padding p-0 -indent-[999px] transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
+                  @click="setSlide(index)" :aria-label="'Slide ' + (index + 1)"></button>
+              </div>
             </div>
             <!-- Image -->
-            <div class="bg-transparent-black z-20">
-              <img :src="slide.image_url" class="block w-full " alt="..." />
-            </div>
+            <img :src="slide.image_url" class="block w-full " alt="..." />
             <!-- <img src="https://tecdn.b-cdn.net/img/Photos/Slides/img%20(22).jpg" class="block w-full"
-                    alt="..." /> -->
+            alt="..." /> -->
+            <!--Carousel indicators-->
           </div>
         </div>
       </transition>
@@ -149,10 +147,6 @@
 <script setup>
 import { ref, defineProps, onMounted } from "vue";
 import { formatDate } from "@/utils/dateFormatUtils.js";
-
-onMounted(() => {
-  console.log("this is from hero", props.mockData);
-});
 
 //Props for the component
 const props = defineProps({
