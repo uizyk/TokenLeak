@@ -2,9 +2,9 @@
     <!-- TABLET / MOBILE -->
 
     <!-- DESKTOP -->
-    <div class="flex w-[900px] h-[200px] justify-around py-2">
-        <img class="py-2 px-5" :src="articleInfo.image_url">
-        <a class="pl-10" :href="articleInfo.news_url">
+    <div class="flex-col md:flex-row flex md:w-[900px] md:h-[200px] justify-around py-2 mb-10">
+        <img class="py-2 md:px-5" :src="articleInfo.image_url">
+        <a class="px-2 md:pl-10" :href="articleInfo.news_url">
             <div class="text-white flex flex-col justify-around">
                 <h2 class="text-article-time mb-3"><span class="font-bold">{{ articleInfo.source_name }}</span> {{
                     formatDate(articleInfo.date) }}</h2>
@@ -22,11 +22,10 @@ import { formatDate } from "@/utils/dateFormatUtils.js";
 //Props for the component
 const props = defineProps({
     articleInfo: {
-        type: Array,
+        type: Object,
         required: true,
     },
 });
-
 
 
 onMounted(() => {

@@ -90,7 +90,7 @@
               <h1 class="text-xl font-bold line-clamp-5">{{ slide.title }}</h1>
               <p class="text-sm line-clamp-2">{{ slide.text }}</p>
               <a :href="slide.news_url">
-                <button class="w-56 py-2 rounded-md bg-white text-black mt-3">
+                <button class="w-48 py-2 rounded-md bg-white text-black mt-3">
                   Read more
                 </button>
               </a>
@@ -151,7 +151,7 @@ import { formatDate } from "@/utils/dateFormatUtils.js";
 //Props for the component
 const props = defineProps({
   mockData: {
-    type: Array,
+    type: Object,
     required: true,
   },
 });
@@ -160,7 +160,6 @@ const newsData = ref(props.mockData.data.slice(0, 10));
 const currentSlide = ref(0);
 
 // Carousel
-
 const nextSlide = () => {
   currentSlide.value = (currentSlide.value + 1) % newsData.value.length;
 };

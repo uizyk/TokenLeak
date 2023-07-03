@@ -8,14 +8,14 @@
 </template>
 
 <script setup>
-import { ref, defineProps, onMounted } from "vue";
+import { ref, defineProps} from "vue";
 import ArticleFilterButtons from "./ArticleFilterButtons.vue";
 
 
 //Props for the component
 const props = defineProps({
     mockData: {
-        type: Array,
+        type: Object,
         required: true,
     },
 });
