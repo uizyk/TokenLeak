@@ -9,8 +9,6 @@
 
 <script setup>
 import { ref, defineProps} from "vue";
-import ArticleFilterButtons from "./ArticleFilterButtons.vue";
-
 
 //Props for the component
 const props = defineProps({
