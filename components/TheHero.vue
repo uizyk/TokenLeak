@@ -90,7 +90,7 @@
               <h1 class="text-xl font-bold line-clamp-5">{{ slide.title }}</h1>
               <p class="text-sm line-clamp-2">{{ slide.text }}</p>
               <a :href="slide.news_url">
-                <button class="w-48 py-2 rounded-md bg-white text-black mt-3">
+                <button class="w-48 py-2 rounded-sm bg-white text-black mt-3">
                   Read more
                 </button>
               </a>

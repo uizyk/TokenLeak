@@ -5,9 +5,6 @@
   </div>
 </template>
 
-
-
-
 <script setup>
 import { ref, onMounted } from 'vue';
 import mockData from '@/src/mockData/data.json';
