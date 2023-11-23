@@ -18,10 +18,12 @@
         </div>
 
         <!-- Div for bottom section of main page -->
-        <div class="bg-background-dark flex flex-wrap w-full h-[1000px] pt-[50px] justify-center">
+        <div class="bg-background-dark w-full pt-[30px] flex justify-center">
 
-            <div v-for="(articleVertical, articleVerticalIndex) in popularArticles" :key="articleVerticalIndex">
-                <ArticleCardVertical :articleInfo="articleVertical" />
+            <div class="flex flex-wrap w-5/6 justify-center gap-5">
+                <div v-for="(articleVertical, articleVerticalIndex) in popularArticles" :key="articleVerticalIndex">
+                    <ArticleCardVertical :articleInfo="articleVertical" />
+                </div>
             </div>
 
         </div>

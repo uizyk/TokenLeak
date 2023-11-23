@@ -1,6 +1,10 @@
 {
     "data": [
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://ambcrypto.com/polygon-gears-up-for-indore-hard-fork-as-exciting-developments-unfold/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Polygon gears up for Indore hard fork as exciting developments unfold",
@@ -18,6 +22,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-rally-to-32k/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Price Key Indicators Suggest A Strengthening Case For Rally To $32K",
@@ -35,6 +43,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33070753/bitcoin-ethereum-dogecoin-rise-after-fidelity-resubmits-spot-etf-filing-analyst-says-its-h?SNAPI",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin, Ethereum, Dogecoin Rise After Fidelity Resubmits Spot ETF Filing: Analyst Says, 'It's Hard To Be Bearish On ETH'",
@@ -51,6 +63,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://coinmarketcap.com/alexandria/article/since-blackrock-etf-filing-bitcoin-miners-have-sent-dollar1-billion-to-exchanges",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Since BlackRock ETF Filing, Bitcoin Miners Have Sent $1 Billion to Exchanges",
@@ -68,6 +84,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://coinmarketcap.com/alexandria/article/fidelity-refiles-for-spot-bitcoin-etf-says-etf-would-have-protected-investors",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Fidelity Refiles For Spot Bitcoin ETF, Says ETF Would Have Protected Investors",
@@ -82,6 +102,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.cryptoglobe.com/latest/2023/06/cme-group-announces-ether-bitcoin-ratio-futures/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "CME Group Announces Ether/Bitcoin Ratio Futures",
@@ -99,6 +123,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.cryptoglobe.com/latest/2023/06/fidelitys-renewed-bid-for-a-spot-bitcoin-etf/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Fidelity's Renewed Bid for a Spot Bitcoin ETF",
@@ -113,6 +141,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.cryptoglobe.com/latest/2023/06/u-s-investors-take-the-lead-a-new-era-of-bitcoin-trading-and-institutional-interest/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "U.S. Investors Take the Lead: A New Era of Bitcoin Trading and Institutional Interest",
@@ -129,6 +161,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.fxempire.com/forecasts/article/btc-bulls-to-retarget-31500-on-etf-news-and-us-inflation-1358207",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "BTC Bulls to Retarget $31,500 on ETF News and US Inflation",
@@ -146,6 +182,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://news.bitcoin.com/north-carolina-advances-bill-to-study-holding-bitcoin-using-crypto-to-hedge-against-inflation/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "North Carolina Advances Bill to Study Holding Bitcoin, Using Crypto to Hedge Against Inflation",
@@ -160,6 +200,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://dailyhodl.com/2023/06/29/ethereum-eth-set-to-explode-if-it-follows-bitcoins-history-says-crypto-analyst/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Ethereum (ETH) Set to Explode if It Follows Bitcoin's History, Says Crypto Analyst",
@@ -175,6 +219,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://thecurrencyanalytics.com/bitcoin/ark-investment-management-56919.php",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "ARK Investment Management Files Amended Bitcoin ETF Application, Emulating BlackRock's Approach",
@@ -189,6 +237,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://news.bitcoin.com/change-the-code-blasts-wall-street-for-propping-up-bitcoin-initiatives/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Change the Code Blasts Wall Street for Propping Up Bitcoin Initiatives",
@@ -203,6 +255,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.newsbtc.com/bitcoin-news/dawn-for-bitcoin-5-billion-in-options-expire-and-could-push-price-towards-31000/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Dawn For Bitcoin: $5 Billion In Options Expire And Could Push Price Towards $31,000",
@@ -219,6 +275,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cryptoslate.com/revolut-delists-cardano-polygon-and-solana-in-us-market/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Revolut delists Cardano, Polygon, and Solana in US market",
@@ -235,6 +295,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.coindesk.com/markets/2023/06/29/us-investors-are-driving-bitcoins-price-surge-as-institutional-demand-rises/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "U.S. Investors Are Driving Bitcoin's Price Surge as Institutional Demand Rises",
@@ -251,6 +315,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cointelegraph.com/news/fidelity-renews-push-for-spot-wise-origin-btc-trust-making-it-7th-applicant-this-year",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Fidelity renews push for spot Wise Origin BTC Trust, making it 7th applicant this year",
@@ -265,6 +333,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.coindesk.com/markets/2023/06/29/bitcoin-hovers-over-303k-despite-renewed-inflation-worries/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Hovers Over $30.3K Despite Renewed Inflation Worries",
@@ -281,6 +353,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.forbes.com/sites/digital-assets/2023/06/29/crypto-traders-brace-for-7-billion-bitcoin-ether-options-expiries/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Crypto Traders Brace For $7 Billion Bitcoin, Ether Options Expiries",
@@ -298,6 +374,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cointelegraph.com/news/cme-group-set-to-introduce-eth-to-btc-ratio-futures",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "CME Group set to introduce ETH to BTC Ratio futures",
@@ -315,6 +395,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cointelegraph.com/news/27-trillion-ready-for-bitcoin-btc-coinshares-cso-meltem-demirors",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "$27 trillion AUM is perched over Bitcoin and crypto: CoinShares CSO",
@@ -331,6 +415,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33017089/jack-dorsey-backed-damus-says-it-faces-app-store-removal-for-bitcoin-tipping-despite-app-u?SNAPI",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Jack Dorsey-Backed Damus Says It Faces App Store Removal For Bitcoin Tipping Despite App Update",
@@ -345,6 +433,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-aims-higher-30500/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Price Aims Higher But 100 SMA Is The Key",
@@ -362,6 +454,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/06/33017003/bitcoin-ethereum-dogecoin-trade-mixed-as-etf-induced-rally-pauses-analyst-predicts-strong-?SNAPI",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin, Ethereum, Dogecoin Trade Mixed As ETF-Induced Rally Pauses: Analyst Predicts Strong July For King Crypto Amid Vanishing 'Crypto Death' Fears",
@@ -380,6 +476,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://coinpedia.org/bitcoin/bitcoin-price-faces-critical-test-at-30000-mark-amidst-economic-events/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Price Faces Critical Test at $30,000 Mark Amidst Economic Events",
@@ -397,6 +497,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://coinmarketcap.com/alexandria/article/hsbc-hong-kong-allows-customers-to-trade-bitcoin-and-ethereum-etfs-on-its-investment-platform",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "HSBC Hong Kong Allows Customers To Trade Bitcoin and Ethereum ETFs on its Investment Platform",
@@ -412,6 +516,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.coindesk.com/markets/2023/06/27/first-mover-asia-bitcoin-could-experience-price-turbulence-as-30k-is-tested/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "First Mover Asia: Bitcoin Could Experience Price Turbulence as $30K Is Tested",
@@ -428,6 +536,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://decrypt.co/146312/meet-nodeless-the-non-kyc-bitcoin-lightning-processor-jack-dorsey-tweeted-about",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Meet Nodeless, The Non-KYC Bitcoin Lightning Processor Jack Dorsey Tweeted About",
@@ -442,6 +554,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.cryptoglobe.com/latest/2023/06/crypto-trader-capo-predicts-doom-and-gloom-for-bitcoin-ethereum-and-altcoins/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Crypto Trader Capo Predicts Doom and Gloom for Bitcoin, Ethereum and Altcoins",
@@ -457,6 +573,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cryptoslate.com/wisdomtree-exec-says-data-sharing-agreements-are-a-key-part-of-bitcoin-etf-applications/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "WisdomTree exec says data sharing agreements are a “key part” of Bitcoin ETF applications",
@@ -471,6 +591,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.fxempire.com/forecasts/article/btc-and-a-return-to-31000-in-the-hands-of-us-stats-and-the-courts-1357373",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "BTC and a Return to $31,000 in the Hands of US Stats and the Courts",
@@ -488,6 +612,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://decrypt.co/146278/damus-to-be-booted-from-apples-app-store-jack-dorsey-responds",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Tipping Service Damus Gets Booted From Apple App Store",
@@ -502,6 +630,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://decrypt.co/146286/solana-polygon-cardano-still-recovering-from-the-sec-calling-them-securities",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Solana, Polygon, Cardano Still Recovering From the SEC Calling Them Securities",
@@ -520,6 +652,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://decrypt.co/146308/bitcoin-mining-firm-riot-secures-33000-new-rigs-for-162-million",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin Mining Firm Riot Secures 33,000 New Rigs for $162 Million",
@@ -537,6 +673,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://cryptopotato.com/rugby-champion-jarryd-hayne-lost-almost-800k-in-a-bitcoin-scam-report/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Rugby Champion Jarryd Hayne Lost Almost $800K in a Bitcoin Scam: Report",
@@ -553,6 +693,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://ambcrypto.com/bitcoins-30k-fortification-developing-cracks/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin's $30k fortification developing cracks?",
@@ -569,6 +713,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.forbes.com/sites/digital-assets/2023/06/26/spains-largest-bank-joins-list-of-financial-institutions-exploring-bitcoin/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Spain's Largest Bank Joins List Of Financial Institutions Exploring Bitcoin",
@@ -585,6 +733,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://decrypt.co/146302/bitcoin-tech-stock-correlation-hits-three-year-low",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Bitcoin, Tech Stock Correlation Hits Three-Year Low",
@@ -599,6 +751,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://www.newsbtc.com/bitcoin-news/the-blessing-of-july-can-bitcoin-climb-to-36000-in-the-coming-month/",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "The Blessing Of July: Can Bitcoin Climb To $36,000 In The Coming Month?",
@@ -615,6 +771,10 @@
             ]
         },
         {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://coingape.com/?p=152794",
             "image_url": "https://crypto.snapi.dev/images/v1/w/s/ambcrypto-a-gear-mechanism-with-the-polygon-logo-symbolizing-po-7caabf5d-98c6-4449-ac8e-0ce743742921-326794.png",
             "title": "Why Bitcoin Price Is Destined To Pump In July 2023?",
