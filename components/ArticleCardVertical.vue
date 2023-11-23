@@ -1,7 +1,8 @@
 <template>
-    <div class="flex-col flex py-2
-                md:flex-col md:w-2/4 md:h-42 xl:w-80">
-        <img class=" md:w-full mb-2 " :src="articleInfo.image_url">
+    <div class="flex-col flex py-2 w-80">
+        <a :href="articleInfo.news_url">
+            <img class=" w-full mb-2" :src="articleInfo.image_url">
+        </a>
         <div class="text-white flex flex-col w-full gap-2 bg-hero-dark p-4">
             <a :href="articleInfo.news_url">
                 <h2 class="text-article-time">{{ formatDate(articleInfo.date) }}</h2>
