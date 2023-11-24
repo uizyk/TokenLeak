@@ -20,7 +20,7 @@
         <!-- Div for bottom section of main page -->
         <h1 class="text-white text-xl pt-8 bg-background-dark text-center">Recommended</h1>
         <div class="bg-background-dark w-full pb-12 pt-9 h-auto flex justify-center">
-            <div class="flex flex-wrap justify-center gap-5">
+            <div class="flex flex-wrap justify-center gap-5 xl:w-5/6">
                 <div v-for="(articleVertical, articleVerticalIndex) in popularArticles" :key="articleVerticalIndex">
                     <ArticleCardVertical :articleInfo="articleVertical" />
                 </div>

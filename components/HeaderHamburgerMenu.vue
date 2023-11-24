@@ -24,18 +24,21 @@
     </button>
     <div ref="
     dropdownMenu" class="fixed top-20 left-0 w-full 
-    h-0 bg-gray-light 
+    h-0 bg-hero-dark 
     duration-200 ease-linear flex flex-col items-center justify-center overflow-hidden"
       :class="{ 'dropdown-open': menuOpen }">
       <ul>
-        <li>
-          <a href="#">home</a>
+        <li class="text-lg text-white">
+          <a href="#">HOME</a>
         </li>
-        <li>
-          <a href="#">about</a>
+        <li class="text-lg text-white">
+          <a href="#">ABOUT</a>
         </li>
-        <li>
-          <a href="#">contact</a>
+        <li class="text-lg text-white">
+          <a href="#">BLOG</a>
+        </li>
+        <li class="text-lg text-white">
+          <a href="#">CONTACT</a>
         </li>
       </ul>
     </div>
