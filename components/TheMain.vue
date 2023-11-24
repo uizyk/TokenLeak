@@ -5,13 +5,13 @@
             <!-- <ArticleFilterButtons class="hidden md:flex mb-10" /> -->
             <div class="flex flex-col items-center md:items-start">
                 <h1 class="text-white text-2xl mb-5 ml-5">Recent Articles</h1>
-                <div class="flex flex-col items-center" v-for="(articleHorizontal, articleHorizontalIndex) in recentArticles" :key="articleHorizontalIndex">
-                    <ArticleCardHorizontal :articleInfo="articleHorizontal" />
+                <div class="flex flex-col items-center" v-for="(articleOne, articleOneIndex) in recentArticles" :key="articleOneIndex">
+                    <ArticleCardOne :articleInfo="articleOne" />
                 </div>
             </div>
             <div class="flex flex-col items-center md:items-start">
                 <h1 class="text-white text-xl mt-3 mb-4 ml-3">Hot</h1>
-                <div v-for="(articleMini, articleMiniIndex) in popularArticles" :key="articleMiniIndex">
+                <div v-for="(articleMini, articleMiniIndex) in hotArticles" :key="articleMiniIndex">
                     <ArticleCardMini :articleInfo="articleMini" />
                 </div>
             </div>
@@ -21,8 +21,8 @@
         <h1 class="text-white text-xl pt-8 bg-background-dark text-center">Recommended</h1>
         <div class="bg-background-dark w-full pb-12 pt-9 h-auto flex justify-center">
             <div class="flex flex-wrap justify-center gap-5 xl:w-5/6">
-                <div v-for="(articleVertical, articleVerticalIndex) in popularArticles" :key="articleVerticalIndex">
-                    <ArticleCardVertical :articleInfo="articleVertical" />
+                <div v-for="(articleTwo, articleTwoIndex) in recommendedArticles" :key="articleTwoIndex">
+                    <ArticleCardTwo :articleInfo="articleTwo" />
                 </div>
             </div>
 
@@ -45,14 +45,15 @@ const props = defineProps({
 });
 
 const newsData = ref([]);
-const popularArticles = ref([]);
 const recentArticles = ref([]);
+const hotArticles = ref([]);
+const recommendedArticles = ref([]);
 const windowWidth = ref(typeof window !== 'undefined' ? window.innerWidth : 0);
 
 // Compute the number of recent articles based on screen size
 const updateRecentArticles = () => {
     // If the screen is smaller than 'xl', limit to 3 recent articles
-    recentArticles.value = windowWidth.value < 1280 ? newsData.value.slice(0, 3) : newsData.value.slice(0, 4);
+    recentArticles.value = windowWidth.value < 1280 ? recentArticles.value.slice(0, 3) : recentArticles.value.slice(0, 4);
 };
 
 watchEffect(() => {
@@ -63,7 +64,9 @@ watchEffect(() => {
 onMounted(() => {
     // Ensure newsData is available before creating slices
     newsData.value = props.mockData.data;
-    popularArticles.value = newsData.value.slice(0, 8);
+    recentArticles.value = newsData.value.slice(0, 4);
+    hotArticles.value = newsData.value.slice(4, 12);
+    recommendedArticles.value = newsData.value.slice(12);
 
     // Add event listener for window resize if running in a browser
     if (typeof window !== 'undefined') {
