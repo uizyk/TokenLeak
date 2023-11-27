@@ -5,6 +5,397 @@
                 "name": "Tiffany Myers",
                 "profile_image": "/images/stock-profile-image.jpg"
             },
+            "news_url": "https://coinmarketcap.com/alexandria/article/cnbc-host-jim-cramer-is-now-bullish-on-bitcoin-if-you-like-bitcoin-buy-bitcoin",
+            "image_url": "https://crypto.snapi.dev/images/v1/y/e/e209758211fa448291a4a57262bd81c4-400776.jpg",
+            "title": "CNBC Host Jim Cramer Is Now Bullish on Bitcoin: “If you like Bitcoin, buy Bitcoin”",
+            "text": "Jim Cramer, the host of CNBC's Mad Money, has reversed his opinion on Bitcoin and is now urging investors to reconsider their positions.",
+            "source_name": "CoinMarketCap",
+            "date": "Mon, 27 Nov 2023 00:36:36 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://coinpedia.org/price-analysis/macro-visionary-dan-tapiero-sees-bitcoin-price-soaring-to-100k-outlines-potential-timeline/",
+            "image_url": "https://crypto.snapi.dev/images/v1/m/v/bitcoin-macro-index-sees-possible-400-surge-says-charles-edwards-400773.jpg",
+            "title": "Macro Visionary Dan Tapiero Sees Bitcoin Price Soaring to $100K – Outlines Potential Timeline",
+            "text": "Bitcoin has recently demonstrated remarkable resilience, achieving a significant surge of 1.5%, propelling its value to the $38,000 mark. This upturn has infused investors and enthusiasts with renewed confidence. The current trend aligns with several bullish on-chain metrics, suggesting a potential push towards the $40,000 threshold.",
+            "source_name": "CoinPedia",
+            "date": "Mon, 27 Nov 2023 00:34:41 -0500",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://coinmarketcap.com/alexandria/article/michael-saylors-microstrategy-stock-price-reaches-two-year-high-boosted-by-bitcoin-holdings",
+            "image_url": "https://crypto.snapi.dev/images/v1/i/l/2a673f387fed4b9ba8d272cdb8dc23f8-400771.jpg",
+            "title": "Michael Saylor's Microstrategy Stock Price Reaches Two-Year-High, Boosted by Bitcoin Holdings",
+            "text": "MicroStrategy, the enterprise business firm well-known for its optimistic stance on Bitcoin, witnessed a surge in its stock price, surpassing $500 on last friday.",
+            "source_name": "CoinMarketCap",
+            "date": "Mon, 27 Nov 2023 00:29:37 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://coingape.com/?p=166157",
+            "image_url": "https://crypto.snapi.dev/images/v1/e/d/crypto-prices-today27-400762.jpg",
+            "title": "Crypto Price Today: Bitcoin, Pepe Coin Plummet As LUNC Rallies",
+            "text": "The crypto prices today were in the negative territory, mainly due to the absence of any positive catalyst fuelling further gains in the market. Meanwhile, the market has witnessed a notable surge over the past few weeks, suggesting a bullish sentiment among investors.",
+            "source_name": "Coingape",
+            "date": "Mon, 27 Nov 2023 00:08:11 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "LUNC",
+                "PEPE"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://coingape.com/?p=166154",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/k/bitcoin-btc-1224x690-400757.jpg",
+            "title": "Bitcoin (BTC) Price Volatility Ahead As Open Interest Moves in the “Danger Zone”",
+            "text": "Bitcoin seems to be currently under pressure as the BTC price is trading 1.17% down at $37,300 levels with a market cap of $729 billion. As the BTC price drops under $37,500 levels, more Bitcoin liquidations are likely to take place with a significant rise in the Open Interest (OI).",
+            "source_name": "Coingape",
+            "date": "Sun, 26 Nov 2023 23:26:40 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://news.bitcoin.com/robert-kiyosakis-advice-get-into-bitcoin-now-before-its-too-late/",
+            "image_url": "https://crypto.snapi.dev/images/v1/s/3/kiyosaki-buy-bitcoin-now-768x432-400750.jpg",
+            "title": "Robert Kiyosaki's Advice: Get Into Bitcoin Now ‘Before It's Too Late'",
+            "text": "Rich Dad Poor Dad author Robert Kiyosaki has advised investors to get into bitcoin and ditch fiat money now “before it's too late,” reiterating that workers and savers in U.S. dollars are losers.",
+            "source_name": "Bitcoin",
+            "date": "Sun, 26 Nov 2023 22:30:08 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-faces-rejection-38k/",
+            "image_url": "https://crypto.snapi.dev/images/v1/b/d/shutterstock-65884069jpgfit10002c667-400748.jpg",
+            "title": "Bitcoin Price Faces Rejection and Now At Risk of Downside Extension",
+            "text": "Bitcoin price is still struggling to settle above $38,000. BTC is showing a few bearish signs and might decline below the $37,150 support.",
+            "source_name": "NewsBTC",
+            "date": "Sun, 26 Nov 2023 22:22:23 -0500",
+            "topics": [
+                "tanalysis",
+                "pricemovement"
+            ],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://www.benzinga.com/markets/cryptocurrency/23/11/35952715/bitcoin-ethereum-dogecoin-mixed-after-blackrock-shows-etf-plans-to-sec-analyst-sees-btc-hi?utm_source=snapi",
+            "image_url": "https://crypto.snapi.dev/images/v1/d/w/bitcoin-dogecoin-ethereumjpegoptimizemediumdpr1autowebpheight800width1456fitcrop-400744.jpg",
+            "title": "Bitcoin, Ethereum, Dogecoin Mixed After BlackRock Shows ETF Plans To SEC: Analyst Sees BTC Hitting $40K 'With Sun Seemingly Rising On Horizon'",
+            "text": "Major cryptocurrencies experienced mixed trading on Sunday evening following a crucial meeting between BlackRock Inc (NYSE:BLK), Nasdaq representatives, and the Securities and Exchange Commission (SEC). The meeting aimed to discuss the proposed rule regarding the listing of a spot Bitcoin exchange-traded fund (ETF).",
+            "source_name": "Benzinga",
+            "date": "Sun, 26 Nov 2023 21:49:58 -0500",
+            "topics": [
+                "regulations",
+                "pricemovement"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "DOGE",
+                "ETH"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://www.fxempire.com/forecasts/article/crypto-news-bitcoin-extends-winning-streak-to-6-weeks-while-blur-steals-the-show-1391487",
+            "image_url": "https://crypto.snapi.dev/images/v1/4/w/shutterstock-2153066245-12-400743.jpg",
+            "title": "Crypto News: Bitcoin Extends Winning Streak to 6-Weeks While BLUR Steals the Show",
+            "text": "Ongoing progress toward the SEC approving a first batch of BTC-spot ETFs support BTC at current price levels. BTC needs a catalyst to target $40,000.",
+            "source_name": "FXEmpire",
+            "date": "Sun, 26 Nov 2023 21:34:18 -0500",
+            "topics": [
+                "tanalysis"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BLUR",
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://dailycoin.com/bitcoin-holders-cheer-as-profits-hit-new-high-since-2021/",
+            "image_url": "https://crypto.snapi.dev/images/v1/n/l/custodia-bank-horse-rocking-gold-btc-bitcoin-530x353-400734.jpg",
+            "title": "Bitcoin Holders Cheer as Profits Hit New High Since 2021",
+            "text": "On-chain data suggest Bitcoin appears to be charting a course much akin to the 2021 bull run.",
+            "source_name": "Dailycoin",
+            "date": "Sun, 26 Nov 2023 20:28:40 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://thecurrencyanalytics.com/bitcoin/bitcoin-rally-anticipated-influential-figure-arthur-hayes-predicts-positive-trajectory-for-btc-price-83330.php",
+            "image_url": "https://crypto.snapi.dev/images/v1/0/0/bitcoin-42-400732.jpg",
+            "title": "Bitcoin Rally Anticipated: Influential Figure Arthur Hayes Predicts Positive Trajectory for BTC Price",
+            "text": "In the realm of cryptocurrencies, whispers of a potential Bitcoin rally have surfaced, stirred by none other than Arthur Hayes, the co-founder of BitMEX and a notable figure in the crypto space. Hayes recently shared intriguing insights hinting at a positive trajectory for Bitcoin's price, setting tongues wagging and the market abuzz with speculation.",
+            "source_name": "The Currency Analytics",
+            "date": "Sun, 26 Nov 2023 20:15:27 -0500",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://cointelegraph.com/news/htx-huobi-bitcoin-withdrawal-deposit-back-after-hot-wallet-hack",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/i/919c5d0e-2064-4646-af9a-2f7800b99a79-400731.jpg",
+            "title": "Crypto exchange HTX reinstates Bitcoin services after $30M hack",
+            "text": "Justin Sun said he expects functionality for other cryptocurrencies to gradually be reinstated with full services returning by next week.",
+            "source_name": "Cointelegraph",
+            "date": "Sun, 26 Nov 2023 20:14:06 -0500",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://news.bitcoin.com/former-nyse-president-money-will-flood-into-crypto-industry-with-spot-bitcoin-etfs/",
+            "image_url": "https://crypto.snapi.dev/images/v1/w/o/nyse-bitcoin-etf-money-flood-768x432-400728.jpg",
+            "title": "Former NYSE President: Money Will Flood Into Crypto Industry With Spot Bitcoin ETFs",
+            "text": "Former NYSE President Tom Farley expects money to “flood” into the crypto industry when the U.S. Securities and Exchange Commission (SEC) approves spot bitcoin exchange-traded funds (ETFs). “It's just easier to buy. People believe in bitcoin,” he emphasized, adding that the cryptocurrency “is a great invention.",
+            "source_name": "Bitcoin",
+            "date": "Sun, 26 Nov 2023 19:30:46 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://thecurrencyanalytics.com/bitcoin/bitcoin-surges-past-38000-is-40k-within-reach-83274.php",
+            "image_url": "https://crypto.snapi.dev/images/v1/o/2/bitcoin-surge-400723.jpg",
+            "title": "Bitcoin Surges Past $38,000: Is $40K Within Reach?",
+            "text": "In a groundbreaking turn of events, Bitcoin has stormed past the $38,000 mark, marking a historic milestone in the world of finance. As the leading cryptocurrency, Bitcoin's recent surge signifies a pivotal moment, drawing attention as a significant global macro asset.",
+            "source_name": "The Currency Analytics",
+            "date": "Sun, 26 Nov 2023 19:17:49 -0500",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://cointelegraph.com/news/lightning-developers-wake-up-fix-replacement-cycling-bitcoin-dev",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/4/752243d1-3771-48eb-aec3-2dccc85295a7-400720.jpg",
+            "title": "Lightning devs must ‘wake up' and fix security bugs, not please VCs: Bitcoin dev",
+            "text": "Antoine Riard, who left the Lightning Network in October, argues the Lightning Network is also at risk of becoming increasingly centralized and susceptible to single points of failure and censorship risks.",
+            "source_name": "Cointelegraph",
+            "date": "Sun, 26 Nov 2023 18:46:06 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://thecurrencyanalytics.com/bitcoin/bitcoins-potential-soars-macro-investor-predicts-100000-price-exploring-the-timeline-and-impact-83251.php",
+            "image_url": "https://crypto.snapi.dev/images/v1/d/j/bitcoin-price-prediction-2-400707.jpg",
+            "title": "Bitcoin's Potential Soars: Macro Investor Predicts $100,000 Price – Exploring the Timeline and Impact",
+            "text": "In the exhilarating world of cryptocurrency, renowned macro investor Dan Tapiero has sparked optimism by forecasting Bitcoin's potential to soar to $100,000 in the upcoming bull run. This surge, representing a remarkable 167% increase from its current standing, has sent ripples of excitement throughout the financial landscape.",
+            "source_name": "The Currency Analytics",
+            "date": "Sun, 26 Nov 2023 17:50:11 -0500",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://thecurrencyanalytics.com/altcoins/cryptocurrency-market-update-apecoin-surges-17-bitcoin-hovers-below-38-5k-83247.php",
+            "image_url": "https://crypto.snapi.dev/images/v1/i/p/ethereum-18-400705.jpg",
+            "title": "Cryptocurrency Market Update: ApeCoin Surges 17%, Bitcoin Hovers Below $38.5K",
+            "text": "In the dynamic realm of cryptocurrencies, ApeCoin has emerged as the top performer today, showcasing a remarkable surge of 17%. Simultaneously, Bitcoin, the trailblazer of digital assets, grapples with maintaining momentum just under the $38,500 mark after a thrilling climb.",
+            "source_name": "The Currency Analytics",
+            "date": "Sun, 26 Nov 2023 17:21:37 -0500",
+            "topics": [
+                "pricemovement"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "APE",
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://crypto.news/bitcoin-mining-hits-record-high-difficulty/",
+            "image_url": "https://crypto.snapi.dev/images/v1/c/v/crypto-news-bitcoin-etfs04-400700.webp",
+            "title": "Bitcoin mining hits record high difficulty",
+            "text": "Data from blockchain explorer BTC.com indicates the leap in Bitcoin (BTC) mining difficulty has reached an unprecedented 67.96 T (terahashes).",
+            "source_name": "Crypto news",
+            "date": "Sun, 26 Nov 2023 16:23:37 -0500",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://beincrypto.com/jim-cramer-bullish-bitcoin-time-to-sell/",
+            "image_url": "https://crypto.snapi.dev/images/v1/n/n/bic-jimcramer-neutral-1-400692.png",
+            "title": "Mad Money's Jim Cramer Turns Bullish on Bitcoin: Is It Time to Sell?",
+            "text": "Jim Cramer, the host of CNBC's “Mad Money,” has reversed his stance on Bitcoin, advocating for it as it reaches an 18-month high.",
+            "source_name": "BeInCrypto",
+            "date": "Sun, 26 Nov 2023 14:29:24 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
+            "news_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-mining-difficulty-hits-new-record-high-with-5-rise/",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/u/istock-1326202724jpegfit12542c836-400685.jpg",
+            "title": "Bitcoin Mining Difficulty Hits New Record High With 5% Rise",
+            "text": "The Bitcoin mining difficulty has witnessed another increase in 2023, bringing the metric to a new all-time high. The Bitcoin “difficulty” is a vital aspect of the network that controls the rate at which new blocks are added to the blockchain at a given time.",
+            "source_name": "NewsBTC",
+            "date": "Sun, 26 Nov 2023 14:00:49 -0500",
+            "topics": [
+                "mining"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "author": {
+                "name": "Tiffany Myers",
+                "profile_image": "/images/stock-profile-image.jpg"
+            },
             "news_url": "https://thecurrencyanalytics.com/bitcoin/bitcoin-transaction-fees-soar-trader-spends-3-14-million-in-unprecedented-move-82750.php",
             "image_url": "https://crypto.snapi.dev/images/v1/a/n/bitcoin-transaction-fees-1-399665.jpg",
             "title": "Bitcoin Transaction Fees Soar: Trader Spends $3.14 Million in Unprecedented Move",

@@ -25,7 +25,9 @@
                     <ArticleCardTwo :articleInfo="articleTwo" />
                 </div>
             </div>
-
+        </div>
+        <div class="bg-background-dark text-center">
+            <button class="text-white p-3 mb-10 bg-purple rounded-sm" @click="loadMoreArticles" v-if="recommendedArticles.length < recommendedArticlesTotal.length">Load More</button>
         </div>
 
     </div>
@@ -47,6 +49,7 @@ const props = defineProps({
 const newsData = ref([]);
 const recentArticles = ref([]);
 const hotArticles = ref([]);
+const recommendedArticlesTotal = ref([]);
 const recommendedArticles = ref([]);
 const windowWidth = ref(typeof window !== 'undefined' ? window.innerWidth : 0);
 
@@ -54,6 +57,12 @@ const windowWidth = ref(typeof window !== 'undefined' ? window.innerWidth : 0);
 const updateRecentArticles = () => {
     // If the screen is smaller than 'xl', limit to 3 recent articles
     recentArticles.value = windowWidth.value < 1280 ? recentArticles.value.slice(0, 3) : recentArticles.value.slice(0, 4);
+};
+
+const loadMoreArticles = () => {
+    const currentLength = recommendedArticles.value.length;
+    const newArticles = recommendedArticlesTotal.value.slice(currentLength, currentLength + 8); 
+    recommendedArticles.value = [...recommendedArticles.value, ...newArticles];
 };
 
 watchEffect(() => {
@@ -66,7 +75,8 @@ onMounted(() => {
     newsData.value = props.mockData.data;
     recentArticles.value = newsData.value.slice(0, 4);
     hotArticles.value = newsData.value.slice(4, 12);
-    recommendedArticles.value = newsData.value.slice(12);
+    recommendedArticlesTotal.value = newsData.value.slice(12);
+    recommendedArticles.value = recommendedArticlesTotal.value.slice(0, 8);
 
     // Add event listener for window resize if running in a browser
     if (typeof window !== 'undefined') {

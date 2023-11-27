@@ -156,7 +156,7 @@ const props = defineProps({
   },
 });
 
-const newsData = ref(props.mockData.data.slice(0, 10));
+const newsData = ref(props.mockData.data.slice(20, 30));
 const currentSlide = ref(0);
 
 // Carousel
