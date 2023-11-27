@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div v-if="newsData.length > 0">
         <!-- Div for top section of main page -->
         <div class="bg-background-dark p-5 flex flex-col md:flex-row md:justify-around xl:justify-center">
             <!-- <ArticleFilterButtons class="hidden md:flex mb-10" /> -->
